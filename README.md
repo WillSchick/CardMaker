@@ -1,7 +1,12 @@
 # CardMaker
 A card designer that lets you select art and item descriptions for use with designing your own card game!
 
-![Program Preview](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Program Preview](https://github.com/WillSchick/CardMaker/blob/main/preview.gif?raw=true)
+
+# Attribution
+- Uses PIL
+- Uses Roboto font (associated apache license included in fonts)
+
 
 # Dependancies
 - Python
